@@ -12,7 +12,6 @@ Code:
 CREATE PROCEDURE DonationsbyDateCity
 AS
 BEGIN
-
     SELECT 
         A.city,
         DATEPART(YEAR, D.donation_date) AS Year,
@@ -52,7 +51,6 @@ BEGIN
     DATEPART(MONTH, d.donation_date),
     DATEPART(DAY, d.donation_date)
 END
-
 EXEC totaldonationavgsum 'Toronto', 6
 EXEC totaldonationavgsum 'Vancouver', 6
 
