@@ -57,12 +57,13 @@ EXEC totaldonationavgsum 'Vancouver', 6
 
 
  -- Average and sum of donations by postal code and city in a specific month
+
+ 
 CREATE PROCEDURE [dbo].[DonationbyCityPostalCodeDate]
     @city VARCHAR(100),
     @month INT
 AS
 BEGIN
-  
     SELECT
         a.city,
         a.postal_code,
