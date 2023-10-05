@@ -7,11 +7,10 @@ Cleaning data in SQL to then create inferences on donations status
 #### Find the average and sum of the donation by day, month, and year 
 
 Code: 
+
 -- Create donations by month, average donation and sum of donations for June
 
-CREATE PROCEDURE DonationsbyDateCity
-AS
-BEGIN
+CREATE PROCEDURE DonationsbyDateCity AS BEGIN
     SELECT 
         A.city,
         DATEPART(YEAR, D.donation_date) AS Year,
