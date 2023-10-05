@@ -1,0 +1,181 @@
+addressID,unit_num,street_number,street_name,street_type,street_direction,postal_code,city,province
+40001,42,17,Elm St,Road,North,M1A 1A1,Toronto,Ontario
+40002,312,28,Maple Ave,Lane,South,M1A 1A1,Toronto,Ontario
+40003,105,9,Pine St,Road,East,M1A 1A1,Toronto,Ontario
+40004,223,12,Cedar Dr,Boulevard,West,M1A 1A1,Toronto,Ontario
+40005,402,5,Elm St,Lane,North,M1A 1A1,Toronto,Ontario
+40006,141,37,Maple Ave,Road,South,M1A 1A1,Toronto,Ontario
+40007,289,22,Pine St,Lane,East,M1A 1A1,Toronto,Ontario
+40008,88,17,Cedar Dr,Boulevard,West,M1A 1A1,Toronto,Ontario
+40009,167,28,Elm St,Road,North,M1A 1A1,Toronto,Ontario
+40010,251,9,Maple Ave,Lane,South,M1A 1A1,Toronto,Ontario
+40011,407,12,Pine St,Road,East,M1A 1A1,Toronto,Ontario
+40012,90,37,Cedar Dr,Boulevard,West,M1A 1A1,Toronto,Ontario
+40013,197,5,Elm St,Lane,North,M1A 1A1,Toronto,Ontario
+40014,321,17,Maple Ave,Road,South,M1A 1A1,Toronto,Ontario
+40015,102,9,Pine St,Lane,East,M1A 1A1,Toronto,Ontario
+40016,267,12,Cedar Dr,Boulevard,West,M1B 1B1,Toronto,Ontario
+40017,370,5,Elm St,Road,North,M1B 1B1,Toronto,Ontario
+40018,118,37,Maple Ave,Lane,South,M1B 1B1,Toronto,Ontario
+40019,285,22,Pine St,Road,East,M1B 1B1,Toronto,Ontario
+40020,74,17,Cedar Dr,Lane,West,M1B 1B1,Toronto,Ontario
+40021,245,9,Maple Ave,Lane,South,M1B 1B1,Toronto,Ontario
+40022,349,12,Pine St,Road,East,M1B 1B1,Toronto,Ontario
+40023,113,37,Cedar Dr,Boulevard,West,M1B 1B1,Toronto,Ontario
+40024,192,5,Elm St,Lane,North,M1B 1B1,Toronto,Ontario
+40025,67,17,Maple Ave,Road,South,M1B 1B1,Toronto,Ontario
+40026,157,9,Pine St,Lane,East,M1B 1B1,Toronto,Ontario
+40027,236,12,Cedar Dr,Boulevard,West,M1B 1B1,Toronto,Ontario
+40028,397,5,Elm St,Road,North,M1B 1B1,Toronto,Ontario
+40029,116,37,Maple Ave,Lane,South,M1B 1B1,Toronto,Ontario
+40030,195,22,Pine St,Road,East,M1B 1B1,Toronto,Ontario
+40031,69,17,Cedar Dr,Lane,West,M1C 1C1,Toronto,Ontario
+40032,187,28,Elm St,Boulevard,North,M1C 1C1,Toronto,Ontario
+40033,253,9,Maple Ave,Lane,South,M1C 1C1,Toronto,Ontario
+40034,401,12,Pine St,Road,East,M1C 1C1,Toronto,Ontario
+40035,88,37,Cedar Dr,Boulevard,West,M1C 1C1,Toronto,Ontario
+40036,194,5,Elm St,Lane,North,M1C 1C1,Toronto,Ontario
+40037,72,17,Maple Ave,Road,South,M1C 1C1,Toronto,Ontario
+40038,163,9,Pine St,Lane,East,M1C 1C1,Toronto,Ontario
+40039,245,12,Cedar Dr,Boulevard,West,M1C 1C1,Toronto,Ontario
+40040,396,5,Elm St,Road,North,M1C 1C1,Toronto,Ontario
+40041,267,12,Cedar Dr,Boulevard,West,M1C 1C1,Toronto,Ontario
+40042,370,5,Elm St,Lane,North,M1C 1C1,Toronto,Ontario
+40043,113,37,Maple Ave,Road,South,M1C 1C1,Toronto,Ontario
+40044,197,22,Pine St,Road,East,M1C 1C1,Toronto,Ontario
+40045,88,17,Cedar Dr,Lane,West,M1C 1C1,Toronto,Ontario
+40046,167,28,Elm St,Road,North,M1D 1D1,Toronto,Ontario
+40047,251,9,Maple Ave,Lane,South,M1D 1D1,Toronto,Ontario
+40048,407,12,Pine St,Road,East,M1D 1D1,Toronto,Ontario
+40049,90,37,Cedar Dr,Boulevard,West,M1D 1D1,Toronto,Ontario
+40050,197,5,Elm St,Lane,North,M1D 1D1,Toronto,Ontario
+40051,321,17,Maple Ave,Road,South,M1D 1D1,Toronto,Ontario
+40052,102,9,Pine St,Lane,East,M1D 1D1,Toronto,Ontario
+40053,267,12,Cedar Dr,Boulevard,West,M1D 1D1,Toronto,Ontario
+40054,370,5,Elm St,Lane,North,M1D 1D1,Toronto,Ontario
+40055,113,37,Maple Ave,Road,South,M1D 1D1,Toronto,Ontario
+40056,285,22,Pine St,Road,East,M1D 1D1,Toronto,Ontario
+40057,74,17,Cedar Dr,Lane,West,M1D 1D1,Toronto,Ontario
+40058,184,28,Elm St,Boulevard,North,M1D 1D1,Toronto,Ontario
+40059,245,9,Maple Ave,Lane,South,M1D 1D1,Toronto,Ontario
+40060,402,12,Pine St,Road,East,M1D 1D1,Toronto,Ontario
+40061,89,37,Cedar Dr,Boulevard,West,M1E 1E1,Toronto,Ontario
+40062,195,22,Pine St,Road,East,M1E 1E1,Toronto,Ontario
+40063,69,17,Cedar Dr,Lane,West,M1E 1E1,Toronto,Ontario
+40064,187,28,Elm St,Boulevard,North,M1E 1E1,Toronto,Ontario
+40065,253,9,Maple Ave,Lane,South,M1E 1E1,Toronto,Ontario
+40066,401,12,Pine St,Road,East,M1E 1E1,Toronto,Ontario
+40067,88,37,Cedar Dr,Boulevard,West,M1E 1E1,Toronto,Ontario
+40068,194,5,Elm St,Lane,North,M1E 1E1,Toronto,Ontario
+40069,72,17,Maple Ave,Road,South,M1E 1E1,Toronto,Ontario
+40070,163,9,Pine St,Lane,East,M1E 1E1,Toronto,Ontario
+40071,245,12,Cedar Dr,Boulevard,West,M1E 1E1,Toronto,Ontario
+40072,396,5,Elm St,Road,North,M1E 1E1,Toronto,Ontario
+40073,119,37,Maple Ave,Lane,South,M1E 1E1,Toronto,Ontario
+40074,285,22,Pine St,Road,East,M1E 1E1,Toronto,Ontario
+40075,74,17,Cedar Dr,Lane,West,M1E 1E1,Toronto,Ontario
+40076,185,28,Elm St,Boulevard,North,M1F 1F1,Toronto,Ontario
+40077,246,9,Maple Ave,Lane,South,M1F 1F1,Toronto,Ontario
+40078,403,12,Pine St,Road,East,M1F 1F1,Toronto,Ontario
+40079,88,37,Cedar Dr,Boulevard,West,M1F 1F1,Toronto,Ontario
+40080,194,5,Elm St,Lane,North,M1F 1F1,Toronto,Ontario
+40081,72,17,Maple Ave,Road,South,M1F 1F1,Toronto,Ontario
+40082,163,9,Pine St,Lane,East,M1F 1F1,Toronto,Ontario
+40083,245,12,Cedar Dr,Boulevard,West,M1F 1F1,Toronto,Ontario
+40084,396,5,Elm St,Road,North,M1F 1F1,Toronto,Ontario
+40085,119,37,Maple Ave,Lane,South,M1F 1F1,Toronto,Ontario
+40086,285,22,Pine St,Road,East,M1F 1F1,Toronto,Ontario
+40087,74,17,Cedar Dr,Lane,West,M1F 1F1,Toronto,Ontario
+40088,184,28,Elm St,Boulevard,North,M1F 1F1,Toronto,Ontario
+40089,245,9,Maple Ave,Lane,South,M1F 1F1,Toronto,Ontario
+40090,402,12,Pine St,Road,East,M1F 1F1,Toronto,Ontario
+40091,89,37,Cedar Dr,Boulevard,West,V5K 3A2,Vancouver,British Columbia
+40092,195,5,Elm St,Lane,North,V5K 3A2,Vancouver,British Columbia
+40093,73,17,Maple Ave,Road,South,V5K 3A2,Vancouver,British Columbia
+40094,163,9,Pine St,Lane,East,V5K 3A2,Vancouver,British Columbia
+40095,245,12,Cedar Dr,Boulevard,West,V5K 3A2,Vancouver,British Columbia
+40096,396,5,Elm St,Road,North,V5K 3A2,Vancouver,British Columbia
+40097,119,37,Maple Ave,Lane,South,V5K 3A2,Vancouver,British Columbia
+40098,285,22,Pine St,Road,East,V5K 3A2,Vancouver,British Columbia
+40099,74,17,Cedar Dr,Lane,West,V5K 3A2,Vancouver,British Columbia
+40100,184,28,Elm St,Boulevard,North,V5K 3A2,Vancouver,British Columbia
+40101,245,9,Maple Ave,Lane,South,V5K 3A2,Vancouver,British Columbia
+40102,402,12,Pine St,Road,East,V5K 3A2,Vancouver,British Columbia
+40103,88,37,Cedar Dr,Boulevard,West,V5K 3A2,Vancouver,British Columbia
+40104,194,5,Elm St,Lane,North,V5K 3A2,Vancouver,British Columbia
+40105,72,17,Maple Ave,Road,South,V5K 3A2,Vancouver,British Columbia
+40106,164,9,Pine St,Lane,East,V5L 4B1,Vancouver,British Columbia
+40107,246,12,Cedar Dr,Boulevard,West,V5L 4B1,Vancouver,British Columbia
+40108,397,5,Elm St,Road,North,V5L 4B1,Vancouver,British Columbia
+40109,119,37,Maple Ave,Lane,South,V5L 4B1,Vancouver,British Columbia
+40110,285,22,Pine St,Road,East,V5L 4B1,Vancouver,British Columbia
+40111,74,17,Cedar Dr,Lane,West,V5L 4B1,Vancouver,British Columbia
+40112,184,28,Elm St,Boulevard,North,V5L 4B1,Vancouver,British Columbia
+40113,245,9,Maple Ave,Lane,South,V5L 4B1,Vancouver,British Columbia
+40114,402,12,Pine St,Road,East,V5L 4B1,Vancouver,British Columbia
+40115,88,37,Cedar Dr,Boulevard,West,V5L 4B1,Vancouver,British Columbia
+40116,194,5,Elm St,Lane,North,V5L 4B1,Vancouver,British Columbia
+40117,72,17,Maple Ave,Road,South,V5L 4B1,Vancouver,British Columbia
+40118,163,9,Pine St,Lane,East,V5L 4B1,Vancouver,British Columbia
+40119,245,12,Cedar Dr,Boulevard,West,V5L 4B1,Vancouver,British Columbia
+40120,396,5,Elm St,Road,North,V5L 4B1,Vancouver,British Columbia
+40121,120,37,Maple Ave,Lane,South,V6M 1A1,Vancouver,British Columbia
+40122,286,22,Pine St,Road,East,V6M 1A1,Vancouver,British Columbia
+40123,75,17,Cedar Dr,Lane,West,V6M 1A1,Vancouver,British Columbia
+40124,184,28,Elm St,Boulevard,North,V6M 1A1,Vancouver,British Columbia
+40125,245,9,Maple Ave,Lane,South,V6M 1A1,Vancouver,British Columbia
+40126,402,12,Pine St,Road,East,V6M 1A1,Vancouver,British Columbia
+40127,88,37,Cedar Dr,Boulevard,West,V6M 1A1,Vancouver,British Columbia
+40128,194,5,Elm St,Lane,North,V6M 1A1,Vancouver,British Columbia
+40129,72,17,Maple Ave,Road,South,V6M 1A1,Vancouver,British Columbia
+40130,163,9,Pine St,Lane,East,V6M 1A1,Vancouver,British Columbia
+40131,245,12,Cedar Dr,Boulevard,West,V6M 1A1,Vancouver,British Columbia
+40132,396,5,Elm St,Road,North,V6M 1A1,Vancouver,British Columbia
+40133,119,37,Maple Ave,Lane,South,V6M 1A1,Vancouver,British Columbia
+40134,285,22,Pine St,Road,East,V6M 1A1,Vancouver,British Columbia
+40135,74,17,Cedar Dr,Lane,West,V6M 1A1,Vancouver,British Columbia
+40136,185,28,Elm St,Boulevard,North,V6M 1A2,Vancouver,British Columbia
+40137,246,9,Maple Ave,Lane,South,V6M 1A2,Vancouver,British Columbia
+40138,403,12,Pine St,Road,East,V6M 1A2,Vancouver,British Columbia
+40139,88,37,Cedar Dr,Boulevard,West,V6M 1A2,Vancouver,British Columbia
+40140,194,5,Elm St,Lane,North,V6M 1A2,Vancouver,British Columbia
+40141,72,17,Maple Ave,Road,South,V6M 1A2,Vancouver,British Columbia
+40142,163,9,Pine St,Lane,East,V6M 1A2,Vancouver,British Columbia
+40143,245,12,Cedar Dr,Boulevard,West,V6M 1A2,Vancouver,British Columbia
+40144,396,5,Elm St,Road,North,V6M 1A2,Vancouver,British Columbia
+40145,119,37,Maple Ave,Lane,South,V6M 1A2,Vancouver,British Columbia
+40146,285,22,Pine St,Road,East,V6M 1A2,Vancouver,British Columbia
+40147,74,17,Cedar Dr,Lane,West,V6M 1A2,Vancouver,British Columbia
+40148,184,28,Elm St,Boulevard,North,V6M 1A2,Vancouver,British Columbia
+40149,245,9,Maple Ave,Lane,South,V6M 1A2,Vancouver,British Columbia
+40150,402,12,Pine St,Road,East,V6M 1A2,Vancouver,British Columbia
+40151,89,37,Cedar Dr,Boulevard,West,V6M 1A3,Vancouver,British Columbia
+40152,195,5,Elm St,Lane,North,V6M 1A3,Vancouver,British Columbia
+40153,73,17,Maple Ave,Road,South,V6M 1A3,Vancouver,British Columbia
+40154,163,9,Pine St,Lane,East,V6M 1A3,Vancouver,British Columbia
+40155,245,12,Cedar Dr,Boulevard,West,V6M 1A3,Vancouver,British Columbia
+40156,396,5,Elm St,Road,North,V6M 1A3,Vancouver,British Columbia
+40157,119,37,Maple Ave,Lane,South,V6M 1A3,Vancouver,British Columbia
+40158,285,22,Pine St,Road,East,V6M 1A3,Vancouver,British Columbia
+40159,74,17,Cedar Dr,Lane,West,V6M 1A3,Vancouver,British Columbia
+40160,184,28,Elm St,Boulevard,North,V6M 1A3,Vancouver,British Columbia
+40161,245,9,Maple Ave,Lane,South,V6M 1A3,Vancouver,British Columbia
+40162,402,12,Pine St,Road,East,V6M 1A3,Vancouver,British Columbia
+40163,88,37,Cedar Dr,Boulevard,West,V6M 1A3,Vancouver,British Columbia
+40164,194,5,Elm St,Lane,North,V6M 1A3,Vancouver,British Columbia
+40165,72,17,Maple Ave,Road,South,V6M 1A3,Vancouver,British Columbia
+40166,164,9,Pine St,Lane,East,V6M 1A4,Vancouver,British Columbia
+40167,246,12,Cedar Dr,Boulevard,West,V6M 1A4,Vancouver,British Columbia
+40168,397,5,Elm St,Road,North,V6M 1A4,Vancouver,British Columbia
+40169,119,37,Maple Ave,Lane,South,V6M 1A4,Vancouver,British Columbia
+40170,285,22,Pine St,Road,East,V6M 1A4,Vancouver,British Columbia
+40171,74,17,Cedar Dr,Lane,West,V6M 1A4,Vancouver,British Columbia
+40172,184,28,Elm St,Boulevard,North,V6M 1A4,Vancouver,British Columbia
+40173,245,9,Maple Ave,Lane,South,V6M 1A4,Vancouver,British Columbia
+40174,402,12,Pine St,Road,East,V6M 1A4,Vancouver,British Columbia
+40175,88,37,Cedar Dr,Boulevard,West,V6M 1A4,Vancouver,British Columbia
+40176,194,5,Elm St,Lane,North,V6M 1A4,Vancouver,British Columbia
+40177,72,17,Maple Ave,Road,South,V6M 1A4,Vancouver,British Columbia
+40178,163,9,Pine St,Lane,East,V6M 1A4,Vancouver,British Columbia
+40179,245,12,Cedar Dr,Boulevard,West,V6M 1A4,Vancouver,British Columbia
+40180,396,5,Elm St,Road,North,V6M 1A4,Vancouver,British Columbia
